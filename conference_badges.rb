@@ -11,4 +11,6 @@ end
 
 def assign_rooms(array)
   num = 0
+  while num <= 7
+    num += 1
 end
